@@ -8,6 +8,6 @@ Lenguaje: Python
 02 - Condicionales: Repaso operadores de comparación
 ## DIA 2:
 03 - Bucles v2: Bulces, Iteraciones con for y ejercicios
-## DIA 3
-04 - Programación Funcional:
+## DIA 3:
+04 - Programación Funcional: lambda, map, filter y reduce
 ## DIA 4
