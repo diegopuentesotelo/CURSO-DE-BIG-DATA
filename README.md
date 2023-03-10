@@ -11,3 +11,6 @@ Lenguaje: Python
 ## DIA 3:
 04 - Programación Funcional: lambda, map, filter y reduce
 ## DIA 4
+05 - SparkSession Teoría:
+
+06 - Primer RDD Teoría:
